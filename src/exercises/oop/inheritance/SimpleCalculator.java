@@ -1,4 +1,4 @@
-package exercises.inheritance;
+package exercises.oop.inheritance;
 
 public class SimpleCalculator {
     public void setFirstNumber(double firstNumber) {
