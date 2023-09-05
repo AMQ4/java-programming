@@ -1,4 +1,4 @@
-package exercises.oop.inheritance;
+package exercises.oop.polymorphism;
 
 /**
  * The `Bed` class represents a bed with various attributes such as style, pillows, height, sheets, and quilt.

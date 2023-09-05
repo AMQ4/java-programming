@@ -1,4 +1,4 @@
-package exercises.oop.inheritance;
+package exercises.oop.polymorphism;
 
 /**
  * The `Bedroom` class represents a bedroom with various components, including walls, a ceiling, a bed, and a lamp.

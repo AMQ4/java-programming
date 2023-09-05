@@ -1,4 +1,4 @@
-package exercises.oop.inheritance;
+package exercises.oop.polymorphism;
 
 /**
  * The `Lamp` class represents a lamp with a specified style, battery availability, and globe rating.

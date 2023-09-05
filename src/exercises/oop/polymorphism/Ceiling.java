@@ -1,4 +1,4 @@
-package exercises.oop.inheritance;
+package exercises.oop.polymorphism;
 
 /**
  * The `Ceiling` class represents a ceiling with a specified height and painted color.

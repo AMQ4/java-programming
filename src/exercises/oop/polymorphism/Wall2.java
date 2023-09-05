@@ -1,4 +1,4 @@
-package exercises.oop.inheritance;
+package exercises.oop.polymorphism;
 
 /**
  * The `Wall2` class represents a wall with a specified direction.
